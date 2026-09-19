@@ -1,0 +1,6 @@
+{
+  "name": "ReviewFlow",
+  "description": "Your experience. Your review. Made easy. Premium customer review experience for Ira Unisex Salon in Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
